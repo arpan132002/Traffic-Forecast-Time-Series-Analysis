@@ -1,7 +1,5 @@
 # Traffic Forecast - Time Series Analysis
 
-**Complete Video Tutorial:** https://youtu.be/6GX5SO_V46c
-
 # Dataset Information
 
 Investors are considering making an investment in a new form of transportation - JetRail. JetRail uses Jet propulsion technology to run rails and move people at a high speed! While JetRail has mastered the technology and they hold the patent for their product, the investment would only make sense, if they can get more than 1 Million monthly users with in next 18 months.
